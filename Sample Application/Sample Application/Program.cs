@@ -10,6 +10,7 @@ namespace Sample_Application
         static void Main(string[] args)
         {
             //dummy project to test Git via VS
+            //Feature branch
         }
     }
 }
